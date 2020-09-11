@@ -1,5 +1,5 @@
 ---
-layout: tutorial_v2
+layout: tutorial_v2.1
 title: Quick Start Guide
 ---
 
